@@ -1,0 +1,15 @@
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\bin\Debug\net5.0\FirstApi.Application.deps.json
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\bin\Debug\net5.0\FirstApi.Application.dll
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\bin\Debug\net5.0\FirstApi.Application.pdb
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\bin\Debug\net5.0\FirstApi.Domain.dll
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\bin\Debug\net5.0\FirstApi.Domain.pdb
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\FirstApi.Application.csproj.AssemblyReference.cache
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\FirstApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\FirstApi.Application.AssemblyInfoInputs.cache
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\FirstApi.Application.AssemblyInfo.cs
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\FirstApi.Application.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\FirstApi.Application.csproj.CopyComplete
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\FirstApi.Application.dll
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\refint\FirstApi.Application.dll
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\FirstApi.Application.pdb
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Application\obj\Debug\net5.0\ref\FirstApi.Application.dll

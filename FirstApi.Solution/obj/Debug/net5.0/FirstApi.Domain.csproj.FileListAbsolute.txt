@@ -1,0 +1,11 @@
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\bin\Debug\net5.0\FirstApi.Domain.deps.json
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\bin\Debug\net5.0\FirstApi.Domain.dll
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\bin\Debug\net5.0\FirstApi.Domain.pdb
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\obj\Debug\net5.0\FirstApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\obj\Debug\net5.0\FirstApi.Domain.AssemblyInfoInputs.cache
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\obj\Debug\net5.0\FirstApi.Domain.AssemblyInfo.cs
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\obj\Debug\net5.0\FirstApi.Domain.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\obj\Debug\net5.0\FirstApi.Domain.dll
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\obj\Debug\net5.0\refint\FirstApi.Domain.dll
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\obj\Debug\net5.0\FirstApi.Domain.pdb
+D:\VisualStudio\Estudo2023\FirstAPi\FirstApi.Solution\obj\Debug\net5.0\ref\FirstApi.Domain.dll
