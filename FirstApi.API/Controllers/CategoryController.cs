@@ -28,7 +28,7 @@ namespace FirstApi.API.Controllers
         }
 
         /// <summary>
-        /// Obter um usuário específico por ID.
+        /// Obter um usuário específico pelo ID.
         /// </summary>
         /// <param name="id">ID do usuário</param>
         /// <returns></returns>
